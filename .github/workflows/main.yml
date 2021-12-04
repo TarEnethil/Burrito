@@ -6,7 +6,7 @@ name: CI
 
 env:
   # The version of Godot to use
-  GODOT_VERSION: 3.3.2
+  GODOT_VERSION: 3.4
 
   # Used as a makeshift cache expiry
   CACHE_STRING: "Zo6AbxJk4KQl0sGE"
